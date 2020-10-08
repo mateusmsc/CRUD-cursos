@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351956286746",
+    "firebase_url": "https://cursos-db-595b4.firebaseio.com",
+    "project_id": "cursos-db-595b4",
+    "storage_bucket": "cursos-db-595b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351956286746:android:f6748f22f3bd0c838940a3",
+        "android_client_info": {
+          "package_name": "br.edu.ifb.opt2.mateus.crud_curso_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351956286746-d3g6evd60m8o7476eu0biacvpdmt2t2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdE3zj0xuVyvZqDAr9fF8mkcgwr_Gf5F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351956286746-d3g6evd60m8o7476eu0biacvpdmt2t2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
